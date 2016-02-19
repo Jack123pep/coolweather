@@ -7,7 +7,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="#484E61" >
+        android:background="#FFFFFF" >
 	
         <Button 
             android:id="@+id/switch_city"
@@ -22,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:textColor="#fff"
+            android:textColor="#000"
             android:textSize="24sp" />
         
         <Button 
